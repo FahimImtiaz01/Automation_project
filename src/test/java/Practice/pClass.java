@@ -7,5 +7,7 @@ public class pClass {
 ArrayList<String> names = new ArrayList<>();
 names.add("fahim");
 names.add("k");
+names.add("g");
+
     }// end of class
 }// end of main
